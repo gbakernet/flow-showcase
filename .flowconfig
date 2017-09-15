@@ -1,0 +1,8 @@
+[ignore]
+
+[include]
+<PROJECT_ROOT>/index.js
+
+[libs]
+
+[options]

@@ -1,0 +1,14 @@
+{
+  "name": "flow-showcase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "flow": "flow",
+    "watch": "nodemon --exec \"yarn run flow\" index.js"
+  },
+  "dependencies": {
+    "flow-bin": "^0.54.1",
+    "nodemon": "^1.12.0"
+  }
+}
