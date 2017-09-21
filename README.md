@@ -1,7 +1,7 @@
-# flow-showcase
+# A quick flow showcase
 
-A quick walk through of flow concepts.
+A walk-through of flow concepts.
 
 Run `yarn && yarn watch`.
 
-Uncomment the `Error` examples as for peruse the code.
+Uncomment the `Error` examples as you peruse the code.
